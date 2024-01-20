@@ -1,4 +1,4 @@
-!logo(https://github.com/Rutvik268/Rutvik268/blob/main/523144.jpg)
+![logo](https://github.com/Rutvik268/Rutvik268/commit/132ffdd8ba9b8788322d7e0b9947e9c6755b6df2)
 <h1 align="center">Hi 👋, I'm Rutvik Pawale</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
 
